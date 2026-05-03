@@ -1,23 +1,66 @@
-# 🧮 Trabajo Práctico Integrador – Programación I (UTN)
+# 🧮 Student Grade Management System
 
-Proyecto integrador desarrollado en Python para la materia **Programación I** de la Tecnicatura Universitaria en Programación (UTN).
+**Final project for Programming I** at Universidad Tecnológica Nacional (UTN) - Tecnicatura Universitaria en Programación.
 
-## 📘 Descripción
-Sistema de gestión de notas de alumnos con implementación de **algoritmos de búsqueda y ordenamiento** aplicados a estructuras de datos.
+A Python-based student grade management system implementing search and sorting algorithms on data structures.
 
-## ⚙️ Funcionalidades
-- Carga y generación automática de alumnos.
-- Búsqueda lineal y binaria por nombre o legajo.
-- Ordenamiento por diferentes criterios (burbuja y selección).
-- Análisis comparativo de rendimiento entre algoritmos.
+## 📘 About
 
-## 🧠 Conceptos aplicados
-- Estructuras de datos (listas, diccionarios)
-- Funciones y modularidad
-- Algoritmos de búsqueda y ordenamiento
+This project demonstrates fundamental computer science concepts through a practical student management application. Built as part of the Programming I course curriculum, it focuses on algorithm analysis and data structure manipulation.
 
-## 💻 Tecnologías utilizadas
+## ⚙️ Features
+
+- 📊 **Student Management** - Load and auto-generate student records
+- 🔍 **Search Algorithms** - Linear and binary search by name or ID
+- 📈 **Sorting Algorithms** - Bubble sort and selection sort implementation
+- ⚡ **Performance Analysis** - Comparative algorithm performance metrics
+- 📋 **Multiple Criteria** - Sort and filter by different attributes
+
+## 🧠 Key Concepts
+
+- **Data Structures**: Lists, dictionaries, tuples
+- **Modular Design**: Functions and code organization
+- **Search Algorithms**: Linear search, binary search
+- **Sorting Algorithms**: Bubble sort, selection sort
+- **Algorithm Complexity**: Big O notation and performance comparison
+
+## 💻 Tech Stack
+
 - Python 3.x
 
-## 👨‍💻 Autores
-Cristian Gabriel Aguirre – Gino Paolo Canevaro
+## 🚀 Getting Started
+
+### Prerequisites
+- Python 3.6 or higher
+
+
+## 📊 Algorithm Performance Comparison
+
+The project includes benchmark comparisons between:
+- **Linear Search** vs **Binary Search**
+- **Bubble Sort** vs **Selection Sort**
+
+Results demonstrate time complexity differences on varying dataset sizes.
+
+## 🎯 Learning Outcomes
+
+This project showcases:
+- ✅ Understanding of fundamental algorithms
+- ✅ Data structure manipulation in Python
+- ✅ Code modularization and clean architecture
+- ✅ Algorithm complexity analysis
+- ✅ Collaborative development
+
+## 👨‍💻 Authors
+
+**Cristian Gabriel Aguirre**
+- [GitHub](https://github.com/Cristian690) | [LinkedIn](https://linkedin.com/in/cristian-aguirre-1a1014246)  
+
+
+## 📄 License
+
+Academic project - UTN 2024
+
+---
+
+**University Project** - Developed as part of the Programming I curriculum at University Tecnológica Nacional.
