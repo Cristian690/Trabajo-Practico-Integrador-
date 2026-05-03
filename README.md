@@ -54,12 +54,12 @@ This project showcases:
 ## 👨‍💻 Authors
 
 **Cristian Gabriel Aguirre**
-- [GitHub](https://github.com/Cristian690) | [LinkedIn](https://linkedin.com/in/cristian-aguirre-1a1014246)  
+- [GitHub](https://github.com/Cristian690) | [LinkedIn](https://linkedin.com/in/cristian-aguirre-1a1014246)
 
 
 ## 📄 License
 
-Academic project - UTN 2024
+Academic project - UTN 2025
 
 ---
 
